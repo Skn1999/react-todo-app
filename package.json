@@ -14,7 +14,7 @@
     "react-scripts": "3.3.0",
     "uuid": "^3.3.3"
   },
-  "homepage": "https://Skn1999.github.io/react-todo-app",
+  "homepage": "https://Skn1999.github.io/react-todo-app/index.html",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
