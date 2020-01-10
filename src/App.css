@@ -13,3 +13,29 @@ a{
   color: #333;
   text-decoration: none;
 }
+
+.container{
+  margin: 0 auto;
+  margin-block-start: 2rem;
+  width: 90vw;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.16);
+}
+
+.container > * {
+  padding: 10px 0;
+}
+
+.btn-submit{
+  display: inline-block;
+  border: none;
+  background-color: #555;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn-submit:hover{
+  background-color: #666;
+}
